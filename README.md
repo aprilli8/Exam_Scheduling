@@ -1,8 +1,8 @@
-# Lab 10: Exam Scheduling
+# Lab 9: Exam Scheduling
 
 ## Useful Links
- * [Course Homepage](http://cs.williams.edu/~cs136/index.html) (with TA schedule)
- * [Lab Webpage](http://cs.williams.edu/~cs136/labs/exam-scheduling.html)
+ * [Course Homepage](https://williams-cs.github.io/cs136s19-www/) (with TA schedule)
+ * [Lab Webpage](https://williams-cs.github.io/cs136s19-www/assets/labs/lab9/exam_scheduling.html)
 
 
 ## Repository Contents
