@@ -1,4 +1,4 @@
-# Lab 9: Exam Scheduling
+# Lab 10: Exam Scheduling
 
 ## Useful Links
  * [Course Homepage](https://williams-cs.github.io/cs136-f19-www/index.html) (with TA schedule)
