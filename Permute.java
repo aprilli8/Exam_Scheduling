@@ -6,7 +6,7 @@ public class Permute<E> extends AbstractIterator<Vector<E>> {
     protected Vector<E> elems = new Vector<E>();
     protected long count = 0;
     protected long max = 1;
-	
+
     public Permute(Iterator<E> iter) {
 	super();
 	while (iter.hasNext()) {
@@ -43,7 +43,7 @@ public class Permute<E> extends AbstractIterator<Vector<E>> {
 	}
 	return v;
     }
-	
+
     /* (non-Javadoc)
      * @see structure.AbstractIterator#get()
      */
@@ -92,5 +92,5 @@ public class Permute<E> extends AbstractIterator<Vector<E>> {
 	    System.out.println(iter.next());
 	}
     }
-	
+
 }
