@@ -112,6 +112,9 @@ public class ExamScheduling{
   //Extension 1
   //pre: none
   //post: prints out an exam schedule for all classes
+  /*$ Actually this is just the basic assignment
+    Extension required you to print each course and its slot
+      in alphabetical order. Ex. CSCI 136: Slot 1. */
   public void printExamSlots(){
     System.out.println("Exam Schedule");
     for(int i = 0; i < examSlots.size(); i++){
